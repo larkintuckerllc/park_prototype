@@ -1,0 +1,14 @@
+{
+	"name": "park",
+	"description": "park demo",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"connect": "latest",
+		"serve-static": "latest",
+		"body-parser": "latest",
+    		"express": "latest",
+		"mongoose": "latest",
+		"mongoose-id-validator": "latest"
+	}
+}
